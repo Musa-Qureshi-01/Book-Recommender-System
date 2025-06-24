@@ -1,5 +1,5 @@
 # 📚 Book Recommender System
-A simple machine learning-based web application that recommends books based on user interest. Built using Python, Pandas, and Flask.
+A simple machine learning-based web application that recommends books based on user interest. Built using Python, Pandas, and Flask. Using Pycharm
 
 ## 🚀 Live Demo
 Coming Soon on Render
@@ -32,18 +32,18 @@ Book-Recommender-System/
 ## ✅ Setup Instructions
 Clone the repo
 
-git clone https://github.com/Musa-Qureshi-01/Book-Recommender-System.git
-cd Book-Recommender-System
-Create a virtual environment (optional but recommended)
-python -m venv venv
-venv\Scripts\activate  # on Windows
-Install dependencies
-pip install -r requirements.txt
-Run the app
-python app.py
-Open in browser
-http://127.0.0.1:5000/
-
+- git clone https://github.com/Musa-Qureshi-01/Book-Recommender-System.git
+- cd Book-Recommender-System
+- Create a virtual environment (optional but recommended)
+- python -m venv venv
+- venv\Scripts\activate  # on Windows
+- Install dependencies
+- pip install -r requirements.txt
+- Run the app
+- python app.py
+- Open in browser
+- http://127.0.0.1:5000/
+---
 
 ## 🔮 Future Plans
 - Add user-based recommendations
