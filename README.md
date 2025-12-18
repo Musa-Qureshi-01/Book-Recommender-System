@@ -2,8 +2,7 @@
 A simple machine learning-based web application that recommends books based on user interest. Built using Python, Pandas, and Flask. Using Pycharm
 
 ## 🚀 Live Demo
-Coming Soon on Render
-
+[Preview](https://book-recommender-system-pnem.onrender.com/)
 ## 🧠 Features
 - 📖 Recommends similar books based on input
 - 📊 Uses collaborative filtering / content-based filtering
